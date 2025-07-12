@@ -1,2 +1,7 @@
 streamlit
 openai
+streamlit
+openai
+matplotlib
+pandas
+seaborn
