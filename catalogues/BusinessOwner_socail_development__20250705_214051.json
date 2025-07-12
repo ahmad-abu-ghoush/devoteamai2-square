@@ -1,0 +1,8 @@
+{
+  "business_domain": "socail development ",
+  "capabilities": "cab1 : add user \ncab 2 : remove user \ncab 3 : integration with other system ",
+  "pain_points": "no clear requierments ",
+  "kpis": "succesfull services executed per day ",
+  "critical_systems": "core systems ",
+  "stakeholder_role": "Business Owner"
+}

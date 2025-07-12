@@ -1,0 +1,17 @@
+{
+  "application_name": "CRM System",
+  "category_type": "core system",
+  "line_of_business": "social development",
+  "status": "live",
+  "technology": "java",
+  "integrations": [
+    {
+      "Source App": "CRM System",
+      "Target App": "HR System",
+      "Interface Type": "API",
+      "Protocol": "HTTPS",
+      "Frequency": "Real-Time"
+    }
+  ],
+  "stakeholder_role": "Application Owner"
+}

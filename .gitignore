@@ -1,0 +1,22 @@
+# .gitignore
+backup/
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore IDE configs
+.vscode/
+.idea/
+
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+
+# Ignore OS files
+.DS_Store

@@ -1,0 +1,8 @@
+{
+  "application_name": "XYZ CRM",
+  "line_of_business": "retail",
+  "technology": ".net",
+  "interface_type": "api",
+  "frequency": "daily",
+  "stakeholder_role": "Application Owner"
+}

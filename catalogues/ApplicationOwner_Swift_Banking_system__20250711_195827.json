@@ -1,0 +1,17 @@
+{
+  "application_name": "Swift Banking system ",
+  "category_type": "Core system",
+  "line_of_business": "Core banking team",
+  "status": "Active",
+  "technology": "java",
+  "integrations": [
+    {
+      "Source App": "Banking Swift System",
+      "Target App": "Core System",
+      "Interface Type": "API",
+      "Protocol": "HTTPS",
+      "Frequency": "Real-Time"
+    }
+  ],
+  "stakeholder_role": "Application Owner"
+}

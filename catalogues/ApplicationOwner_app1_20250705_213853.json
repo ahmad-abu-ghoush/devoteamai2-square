@@ -1,0 +1,8 @@
+{
+  "application_name": "app1",
+  "category_type": "core system",
+  "line_of_business": "common services",
+  "status": "live",
+  "technology": "java",
+  "stakeholder_role": "Application Owner"
+}

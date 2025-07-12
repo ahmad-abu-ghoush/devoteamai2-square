@@ -1,0 +1,12 @@
+{
+  "application_name": "app1",
+  "category_type": "Core system ",
+  "line_of_business": "social development ",
+  "status": "live",
+  "technology": ".net",
+  "integration_targets": "app3 , app4",
+  "interface_type": "webhook ",
+  "protocol": "AMQP",
+  "frequency": "Hourly",
+  "stakeholder_role": "Application Owner"
+}

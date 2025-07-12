@@ -1,0 +1,17 @@
+{
+  "application_name": "XYZ Bank HR System",
+  "category_type": "Supporting System",
+  "line_of_business": "Social Development",
+  "status": "live",
+  "technology": "java",
+  "integrations": [
+    {
+      "Source App": "XYZ Bank HR System",
+      "Target App": "XYZ CRM System",
+      "Interface Type": "API",
+      "Protocol": "HTTPS",
+      "Frequency": "Daily"
+    }
+  ],
+  "stakeholder_role": "Application Owner"
+}

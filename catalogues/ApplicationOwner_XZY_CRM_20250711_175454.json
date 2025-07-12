@@ -1,0 +1,12 @@
+{
+  "application_name": "XZY CRM",
+  "category_type": "Core System",
+  "line_of_business": "social development",
+  "status": "live",
+  "technology": "java",
+  "integration_targets": "HR system",
+  "interface_type": "api",
+  "protocol": "https",
+  "frequency": "daily",
+  "stakeholder_role": "Application Owner"
+}

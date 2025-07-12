@@ -1,0 +1,17 @@
+{
+  "application_name": "XYZ Core Banking",
+  "category_type": "Core System",
+  "line_of_business": "operations team",
+  "status": "live",
+  "technology": "java",
+  "integrations": [
+    {
+      "Source App": "XYZ Core banking",
+      "Target App": "XYZ CRM System",
+      "Interface Type": "API",
+      "Protocol": "HTTPS",
+      "Frequency": "Real-Time"
+    }
+  ],
+  "stakeholder_role": "Application Owner"
+}

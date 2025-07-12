@@ -1,0 +1,12 @@
+{
+  "application_name": "My Enterprise mobile app ",
+  "category_type": " Core System",
+  "line_of_business": "core business",
+  "status": "live",
+  "technology": ".net",
+  "integration_targets": "app1",
+  "interface_type": "api",
+  "protocol": "https",
+  "frequency": "daily",
+  "stakeholder_role": "Application Owner"
+}
